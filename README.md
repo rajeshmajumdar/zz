@@ -1,6 +1,6 @@
 ## zz - Git alternative in Python
 
-A git alternative but it's zz implemented in python. The whole goal behind this project is to understand the working og `git`.
+A git alternative but it's zz implemented in python. The whole goal behind this project is to understand the working of `git`.
 
 ### Progress
 - [x] zz init
