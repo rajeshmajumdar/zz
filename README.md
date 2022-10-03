@@ -4,6 +4,7 @@ A git alternative but it's zz implemented in python. The whole goal behind this 
 
 ### Progress
 - [x] zz init
+- [x] zz cat-file <type> <object>
 
 ### Installation
 
